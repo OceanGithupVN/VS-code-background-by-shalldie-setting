@@ -1,4 +1,5 @@
-      "background.editor": {
+// paste these into setting.json
+"background.editor": {
           "useFront": true,
           "style": {
             "background-position": "100% 100%",
